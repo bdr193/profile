@@ -82,9 +82,9 @@ a:hover {
     border-radius: 4px;
 }
 
-.red-btn:hover {
+.blue-btn:hover {
   color: white;
-  background-color: #990000;
+  background-color: #0f0f6d;
 }
 
 @media (max-width: 960px) {
