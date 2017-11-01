@@ -14,7 +14,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  color: #DB5658;
+  color: #226085;
 }
 
 a {
@@ -23,13 +23,18 @@ a {
 }
 
 a:hover {
-  color: #DD5555;
+  color: #226085;
 }
 
 .container {
   width: 500px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
+
+#logo {
+  width: 100px;
+}
+
 
 .card {
     background: #ffffff;
@@ -69,8 +74,8 @@ a:hover {
 
 
 
-.red-btn {
-  background-color: #DD5555;
+.blue-btn {
+  background-color: #226085;
     color: white;
     font-weight: 500;
     padding: 10px;
