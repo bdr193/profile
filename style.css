@@ -84,7 +84,7 @@ a:hover {
 
 .blue-btn:hover {
   color: white;
-  background-color: #0f0f6d;
+  background-color: #3d3dff;
 }
 
 @media (max-width: 960px) {
